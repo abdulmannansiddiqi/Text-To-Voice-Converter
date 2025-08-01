@@ -5,3 +5,5 @@ document.querySelector('button').addEventListener
     speech.text = document.querySelector('textarea').value
     window.speechSynthesis.speak(speech)
 })
+
+// How It Works:
